@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there, cycling enthusiasts! 👋
 
-<!--
-**bikemuenchen/bikemuenchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the creator behind Bike München, sharing practical cycling knowledge from Munich to the world. What started in 2025 in a small garage has grown into a community of thousands who believe every ride should be more enjoyable.
 
-Here are some ideas to get you started:
+**What I Do:**
+- Share real-world cycling tips that actually work
+- Create repair and maintenance tutorials you can follow along
+- Provide bike restoration content and techniques  
+- Offer practical hacks for commuting, training, and exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Philosophy:**
+Clear, honest, tested advice — whether you're just starting your cycling journey or you've been riding for years. No fluff, just knowledge that helps you get the most out of your two wheels.
+
+When I'm not creating content, you'll find me in the workshop testing new techniques or out on the streets of Munich discovering what really works in everyday cycling.
+
+Join our growing community for tips, hacks, and how-tos that make every ride better! 
+
+From Munich with ❤️ for all things cycling
+
+**Connect with me:**
+🌐 bikemuenchen.com 
+📱 Follow for daily tips and tutorials
+🔧 Real advice from real experience
