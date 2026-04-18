@@ -9,7 +9,7 @@ I'm the creator behind Bike München, sharing practical cycling knowledge from M
 - Offer practical hacks for commuting, training, and exploring
 
 **My Philosophy:**
-Clear, honest, tested advice — whether you're just starting your cycling journey or you've been riding for years. No fluff, just knowledge that helps you get the most out of your two wheels.
+Clear, honest, tested advice - whether you're just starting your cycling journey or you've been riding for years. No fluff, just knowledge that helps you get the most out of your two wheels.
 
 When I'm not creating content, you'll find me in the workshop testing new techniques or out on the streets of Munich discovering what really works in everyday cycling.
 
